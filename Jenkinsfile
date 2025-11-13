@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKER_IMAGE = 'hello-world-python:latest'             // Local image name
-        DOCKERHUB_REPO = 'vrushabhvirkar/hello-world-python'   // Replace with your DockerHub repo
+        DOCKERHUB_REPO = 'virkarvrushabh2002/hello-world-python'   // Replace with your DockerHub repo
     }
 
     stages {
